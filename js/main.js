@@ -202,3 +202,4 @@ document.addEventListener('DOMContentLoaded', function () {
     audio.volume = 0.8;
     volumeControl.value = 0.8;
 });"// 24-abr: animaci¢n canvas de p‚talos" 
+"// 24-abr: animacion canvas petalos" 
